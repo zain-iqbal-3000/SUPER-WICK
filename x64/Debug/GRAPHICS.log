@@ -1,0 +1,103 @@
+﻿D:\Visual-Studio\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (GRAPHICS.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+  Source4.cpp
+C:\Users\ZAIN IQBAL\source\repos\GRAPHICS\GRAPHICS\Source4.cpp(65,38): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\ZAIN IQBAL\source\repos\GRAPHICS\GRAPHICS\Source4.cpp(66,39): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\ZAIN IQBAL\source\repos\GRAPHICS\GRAPHICS\Source4.cpp(209,36): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\ZAIN IQBAL\source\repos\GRAPHICS\GRAPHICS\Source4.cpp(366,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ZAIN IQBAL\source\repos\GRAPHICS\GRAPHICS\Source4.cpp(935,70): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\ZAIN IQBAL\source\repos\GRAPHICS\GRAPHICS\Source4.cpp(935,46): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\ZAIN IQBAL\source\repos\GRAPHICS\GRAPHICS\Source4.cpp(1004,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ZAIN IQBAL\source\repos\GRAPHICS\GRAPHICS\Source4.cpp(1014,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ZAIN IQBAL\source\repos\GRAPHICS\GRAPHICS\Source4.cpp(1036,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ZAIN IQBAL\source\repos\GRAPHICS\GRAPHICS\Source4.cpp(1050,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ZAIN IQBAL\source\repos\GRAPHICS\GRAPHICS\Source4.cpp(1060,94): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ZAIN IQBAL\source\repos\GRAPHICS\GRAPHICS\Source4.cpp(1060,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ZAIN IQBAL\source\repos\GRAPHICS\GRAPHICS\Source4.cpp(1068,63): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ZAIN IQBAL\source\repos\GRAPHICS\GRAPHICS\Source4.cpp(1069,63): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ZAIN IQBAL\source\repos\GRAPHICS\GRAPHICS\Source4.cpp(1070,63): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ZAIN IQBAL\source\repos\GRAPHICS\GRAPHICS\Source4.cpp(1072,92): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ZAIN IQBAL\source\repos\GRAPHICS\GRAPHICS\Source4.cpp(1072,54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ZAIN IQBAL\source\repos\GRAPHICS\GRAPHICS\Source4.cpp(1073,92): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ZAIN IQBAL\source\repos\GRAPHICS\GRAPHICS\Source4.cpp(1073,54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ZAIN IQBAL\source\repos\GRAPHICS\GRAPHICS\Source4.cpp(1074,92): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ZAIN IQBAL\source\repos\GRAPHICS\GRAPHICS\Source4.cpp(1074,54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ZAIN IQBAL\source\repos\GRAPHICS\GRAPHICS\Source4.cpp(1084,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ZAIN IQBAL\source\repos\GRAPHICS\GRAPHICS\Source4.cpp(1227,102): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ZAIN IQBAL\source\repos\GRAPHICS\GRAPHICS\Source4.cpp(1227,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ZAIN IQBAL\source\repos\GRAPHICS\GRAPHICS\Source4.cpp(1234,103): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ZAIN IQBAL\source\repos\GRAPHICS\GRAPHICS\Source4.cpp(1234,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ZAIN IQBAL\source\repos\GRAPHICS\GRAPHICS\Source4.cpp(1281,65): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\ZAIN IQBAL\source\repos\GRAPHICS\GRAPHICS\Source4.cpp(1281,53): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\ZAIN IQBAL\source\repos\GRAPHICS\GRAPHICS\Source4.cpp(1284,66): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\ZAIN IQBAL\source\repos\GRAPHICS\GRAPHICS\Source4.cpp(1284,54): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\ZAIN IQBAL\source\repos\GRAPHICS\GRAPHICS\Source4.cpp(1463,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ZAIN IQBAL\source\repos\GRAPHICS\GRAPHICS\Source4.cpp(1494,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ZAIN IQBAL\source\repos\GRAPHICS\GRAPHICS\Source4.cpp(1494,26): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ZAIN IQBAL\source\repos\GRAPHICS\GRAPHICS\Source4.cpp(1497,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ZAIN IQBAL\source\repos\GRAPHICS\GRAPHICS\Source4.cpp(1497,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ZAIN IQBAL\source\repos\GRAPHICS\GRAPHICS\Source4.cpp(1498,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ZAIN IQBAL\source\repos\GRAPHICS\GRAPHICS\Source4.cpp(1498,22): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ZAIN IQBAL\source\repos\GRAPHICS\GRAPHICS\Source4.cpp(1515,21): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ZAIN IQBAL\source\repos\GRAPHICS\GRAPHICS\Source4.cpp(1533,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ZAIN IQBAL\source\repos\GRAPHICS\GRAPHICS\Source4.cpp(1576,33): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ZAIN IQBAL\source\repos\GRAPHICS\GRAPHICS\Source4.cpp(1576,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ZAIN IQBAL\source\repos\GRAPHICS\GRAPHICS\Source4.cpp(1583,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ZAIN IQBAL\source\repos\GRAPHICS\GRAPHICS\Source4.cpp(1584,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ZAIN IQBAL\source\repos\GRAPHICS\GRAPHICS\Source4.cpp(1584,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ZAIN IQBAL\source\repos\GRAPHICS\GRAPHICS\Source4.cpp(1593,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+C:\Users\ZAIN IQBAL\source\repos\GRAPHICS\GRAPHICS\Source4.cpp(890): warning C4715: 'displayGameOverScreen': not all control paths return a value
+  GRAPHICS.vcxproj -> C:\Users\ZAIN IQBAL\source\repos\GRAPHICS\x64\Debug\OOP PROJECT.exe
